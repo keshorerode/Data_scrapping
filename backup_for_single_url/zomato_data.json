@@ -1,0 +1,124 @@
+{
+    "restaurant_info": {
+        "name": "Kongu Parota Stall",
+        "cuisine": [
+            "South Indian",
+            "Tamil",
+            "Fast Food",
+            "Chinese"
+        ],
+        "address": "71a, Sukkiramaniya Valasu, Periyasemour, Asokapuram, Erode",
+        "rating": "4.0",
+        "rating_count": "31",
+        "phone_number": "+917010835272"
+    },
+    "food_items": [
+        {
+            "food_item_name": "Chicken 65 [6 Pieces]",
+            "food_description": "Spicy, crispy and oh so tasty.",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Pepper Chicken Dry [Half]",
+            "food_description": "Bold, spicy and incredibly flavorful, a taste sensation that's simply irresistible.",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Mutton Kothu Curry [Half]",
+            "food_description": "A spicy and aromatic mutton dish.",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Chicken Pallipalayam [Half]",
+            "food_description": "A spicy and aromatic South Indian delicacy that's a burst of flavors on ... read more",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Veg Kothu Parotta",
+            "food_description": "This South Indian delicacy with shredded parotta, vegetables and other spices; served with ... read more",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Chilli Parotta",
+            "food_description": "A delectable and wholesome combo of flavorful chilli paratha, served along with raita.",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Veechu Parotta",
+            "food_description": "A popular South Indian flatbread, known for its soft and flaky layers.",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Egg Onion Veechu",
+            "food_description": "A popular South Indian flatbread, known for its soft and flaky layers.",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Egg Kothu Parotta",
+            "food_description": "Stuffed paratha served with chutney",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Egg Laba",
+            "food_description": "Egg laba is a Chinese dish with hard boiled eggs and mixture of ... read more",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Chicken Kari Parotta",
+            "food_description": "A savory South Indian delight, where tender chicken curry meets crispy paratha for ... read more",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Mutton Kari Parotta",
+            "food_description": "A savory South Indian delight, where tender mutton curry meets crispy parotta for ... read more",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Chicken Curry Veechu Parotta",
+            "food_description": "A delectable South Indian dish featuring minced chicken cooked with spices, often served ... read more",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Mutton Curry Veechu",
+            "food_description": "A delectable South Indian dish featuring minced mutton cooked with spices, often served ... read more",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "Parotta",
+            "food_description": "It is prepared by kneading maida flour.",
+            "food_price": ""
+        },
+        {
+            "food_item_name": "1 Bun Parotta",
+            "food_description": "Soft like a bun, flaky like a parotta.",
+            "food_price": ""
+        }
+    ],
+    "reviews": [
+        {
+            "reviewer_name": "SANGEETHA S",
+            "reviewer_command": "Missing egg thosai",
+            "review_rating_star": "2"
+        },
+        {
+            "reviewer_name": "Vijayan",
+            "reviewer_command": "my order mutton biryani but delivery is chiken fry rice 😡😡😡😡😡😡",
+            "review_rating_star": "1"
+        },
+        {
+            "reviewer_name": "Yuvaraj Arumugam",
+            "reviewer_command": "very waste",
+            "review_rating_star": "1"
+        },
+        {
+            "reviewer_name": "Elambirai",
+            "reviewer_command": "Received rotten chutney, no number to contact",
+            "review_rating_star": "1"
+        },
+        {
+            "reviewer_name": "Sanjith K",
+            "reviewer_command": "this is not real kongu karotta. got stomach upset after eating here...",
+            "review_rating_star": "1"
+        }
+    ]
+}
