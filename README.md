@@ -1,10 +1,10 @@
 # Data Scraper
 
-This project is a Python-based web scraper designed to extract restaurant data from Zomato. It collects detailed information including restaurant names, addresses, ratings, menu items (with prices and descriptions), and customer reviews.
+This project is a Python-based web scraper designed to extract restaurant data from zom. It collects detailed information including restaurant names, addresses, ratings, menu items (with prices and descriptions), and customer reviews.
 
 ## Features
 
-- **Automated Scraping**: Iterates through a list of Zomato URLs.
+- **Automated Scraping**: Iterates through a list of zom URLs.
 - **Data Extraction**:
   - Restaurant Name, Address, Rating, Rating Count.
   - Full Menu (Item Name, Price, Description).
@@ -34,7 +34,7 @@ This project is a Python-based web scraper designed to extract restaurant data f
 ## Usage
 
 1.  **Prepare URL List**:
-    Ensure you have a file named `erode_hotels.txt` in the script directory (e.g., `erode zom/`). Add the Zomato restaurant URLs you want to scrape, one per line.
+    Ensure you have a file named `erode_hotels.txt` in the script directory (e.g., `erode zom/`). Add the zom restaurant URLs you want to scrape, one per line.
 
 2.  **Run the Script**:
     Navigate to the directory containing the script and run it:
@@ -46,7 +46,7 @@ This project is a Python-based web scraper designed to extract restaurant data f
 3.  **Manual Login**:
     - The script will launch a Chrome browser window.
     - It will navigate to abc.com and pause.
-    - **Action Required**: Manually log in to your Zomato account in this window.
+    - **Action Required**: Manually log in to your zom account in this window.
     - Once logged in, return to your terminal and press `ENTER` to continue.
 
 4.  **Scraping Process**:
@@ -85,5 +85,7 @@ The output `zom_multi.json` will contain a list of restaurant objects:
 ```
 
 ## Disclaimer
+
+⚠️ This project is for educational purposes only. It demonstrates pagination handling, logging, and workflow orchestration concepts.
 
 This tool is for educational purposes only. Please respect terms of service and robots.txt.
